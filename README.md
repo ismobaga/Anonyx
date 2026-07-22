@@ -105,4 +105,4 @@ an improvement, feel free to open an issue.
 
 ## License
 
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
+Distributed under the MIT License. 
