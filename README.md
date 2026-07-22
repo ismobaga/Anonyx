@@ -27,7 +27,7 @@ library, which combines rule-based and Transformer-based detection.
 ## Demo
 
 
-<!-- ![Anonyx screenshot](/screenshot.png) -->
+![Anonyx screenshot](/screenshot.png) 
 
 ## Getting started
 
